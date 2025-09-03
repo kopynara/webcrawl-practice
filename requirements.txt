@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+lxml
+selenium
+scrapy
+pandas
+openpyxl
+fastapi
+uvicorn
