@@ -11,9 +11,10 @@ Python 가상환경(`v_crawl`)에서 Requests, BeautifulSoup, Selenium, Scrapy, 
 crawl/
 ├── requirements.txt   # 패키지 목록
 ├── 01\_requests\_bs4/   # Requests + BeautifulSoup 실습
-├── 02\_selenium/       # Selenium 실습
-├── 03\_scrapy/         # Scrapy 실습
-└── 04\_fastapi/        # FastAPI 실습
+├── 02\_selenium/       # 동적 페이지 크롤링
+├── 03\_scrapy/         # 구조화된 크롤링
+└── 04\_fastapi/        # API 서버 실습
+
 
 ````
 
